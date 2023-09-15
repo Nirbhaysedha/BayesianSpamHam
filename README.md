@@ -6,7 +6,7 @@ The Bayesian Spam/Ham Classifier uses the Bernoulli Naive Bayes model, a probabi
 
 ## Data
 
-You can train and evaluate the classifier using your own dataset of labeled spam and ham messages. Make sure your dataset includes text messages or emails along with their corresponding labels (e.g., 1 for spam, 0 for ham).
+You can train and evaluate the classifier using your own dataset of labeled spam and ham messages. Make sure your dataset includes text messages  along with their corresponding labels (e.g., 1 for spam, 0 for ham).
 
 ## Evaluation
 
